@@ -38,7 +38,7 @@ Este repositorio contiene un sencillo juego de Piedra, Papel o Tijera implementa
 
 ## Cómo Jugar
 
-1. Abre el archivo **index.html** en tu navegador web preferido.
+1. Copia y abre el  siguiente link: https://mackaroost.github.io/piedra-papel-tijeras/ en tu navegador web preferido.
 2. Haz clic en los botones para elegir tu movimiento (piedra, papel o tijera).
 3. La computadora seleccionará aleatoriamente su movimiento.
 4. Se mostrará el resultado de la ronda y se actualizarán los puntajes.
