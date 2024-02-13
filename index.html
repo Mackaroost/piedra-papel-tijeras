@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Pidra,papel o tijera</title>
+  </head>
+  <body>
+    <header>
+      <h1>Piedra, Papel o Tijera</h1>
+    </header>
+    <main>
+      <h3>🥷 El futuro de la humanidad está en tus armas 👊</h3>
+      <p class="aclaracion">La batalla es a 5 rondas!!!</p>
+
+      <div class="mensaje"></div>
+
+      <div class="tablero">
+        <div class="jugador">Jugador</div>
+
+        <p class="puntos">
+          <span id="puntos-jugador">0</span> <span>-</span>
+          <span id="puntos-computadora">0</span>
+        </p>
+
+        <div class="computadora">Computadora</div>
+      </div>
+
+      <p class="herramienta">Escoge tu herramienta de batalla</p>
+
+      <div class="armas">
+        <button class="btn_armas" id="piedra">🪨</button>
+        <button class="btn_armas" id="papel">📃</button>
+        <button class="btn_armas" id="tijera">✂️</button>
+      </div>
+      <div class="resumen">
+        <p>Tu arma es: <span id="player_election"></span></p>
+        <p>El arma de la máquina es: <span id="computer_election"></span></p>
+        <p class="definicion" id="score"></p>
+      </div>
+
+      <div class="reiniciar">
+        <button class="reset" id="btn-reset">Reset</button>
+      </div>
+    </main>
+    <script src="index.js"></script>
+  </body>
+</html>
