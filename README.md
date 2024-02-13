@@ -1,4 +1,4 @@
-# Readme del Juego de Piedra, Papel o Tijera
+# Juego de Piedra, Papel o Tijera
 
 Este repositorio contiene un sencillo juego de Piedra, Papel o Tijera implementado utilizando HTML, CSS y JavaScript. El juego permite al usuario jugar contra la computadora, llevando un registro de sus puntajes. A continuación, se presenta una descripción general de la estructura del proyecto y las funcionalidades clave:
 
